@@ -30,7 +30,7 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
 - 💻 Currently building: Smart Vote System using Face recognition in Python
 - 🛠️ Focused on: Competitive Programming |  MERN STACK | AI/ML | Full-Stack Projects
 - 🤝 Open to: Collaborating on innovative & impactful Open Source projects
-- 🚀 Solved 1576+ Leetcode Problems | 17+ Badges | Global Rank - 96k
+- 🚀 Solved 600+ Leetcode Problems | 17+ Badges | Global Rank - 96k | Contest Rating - 1576
 
 
 
