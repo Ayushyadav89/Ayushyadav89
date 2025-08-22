@@ -105,8 +105,37 @@ About Me = [
 
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h1 align="center">GitHUb</h1>
+
 <div align="center">
-    <p align="center">
-       <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AyushYadav56?theme=dark&font=Nunito&ext=heatmap" />  
-    </p>
+<a> 
+  <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushyadav89&theme=radical" alt="Ayush's GitHub Contribution"/>
+  <br>
+</a>
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav89&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayushyadav89&column=7"/>
+  </a>
 </div>
+
+
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<h2 align="center">Leetcode<h2>  
+<p align="center">
+  <a href="https://leetcode.com/AyushYadav56/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/AyushYadav56/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+    <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AyushYadav56?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
