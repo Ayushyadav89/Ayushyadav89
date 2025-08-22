@@ -23,16 +23,17 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
     </div>
 <a href="https://medium.com/@arks0001"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-```py
-About Me = [
-    "I'm a MERN Stack Developer and Competitive Programmer, passionate about building scalable full-stack applications and robust backend architectures."
-"Skilled in Java, Python, and JavaScript, I combine strong problem-solving skills with expertise in frameworks like React, Node.js, and Express.js."
-"Currently exploring Data Science and Machine Learning, I aim to bridge software engineering with intelligent systems by applying algorithms, analytics, and AI-driven insights."
-"My expertise extends to cloud-based infrastructures, RESTful APIs, and database management (MongoDB, MySQL), with a focus on creating secure and efficient solutions."
-"Driven by curiosity and innovation, I constantly seek opportunities to apply my skills—whether in developing resilient applications, exploring AI/ML models, or competing in coding challenges that push creative and technical boundaries."
-]
 
-```
+## 🙋‍♂️ About Me
+
+- 🎓 B.Tech CSE | Pranveer Singh Institute of Technology (2022–2026)
+- 💻 Currently building: Smart Vote System using Face recognition in Python
+- 🛠️ Focused on: Competitive Programming |  MERN STACK | AI/ML | Full-Stack Projects
+- 🤝 Open to: Collaborating on innovative & impactful Open Source projects
+- 🚀 Solved 1576+ Leetcode Problems | 17+ Badges | Global Rank - 96k
+
+
+
 <div align="center">
      <a href="https://www.linkedin.com/in/ayush-yadav-143536253/"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"></a>
     <h1>🧠Skills Set 🦾🤖</h1>
