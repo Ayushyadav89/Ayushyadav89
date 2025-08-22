@@ -105,7 +105,7 @@ About Me = [
 
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h1 align="center">GitHUb</h1>
+<h1 align="center">GitHub Status 🦾</h1>
 
 <div align="center">
 <a> 
@@ -120,6 +120,8 @@ About Me = [
 
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h1 align="center">Github Trophy🦾/h1>
+
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -131,7 +133,7 @@ About Me = [
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h2 align="center">Leetcode<h2>  
+<h2 align="center">Leetcode🦾<h2>  
 <p align="center">
   <a href="https://leetcode.com/AyushYadav56/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/AyushYadav56/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
