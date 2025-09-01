@@ -46,7 +46,7 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
     <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" title="CSS3" alt="css3" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" title="JavaScript" alt="javascript" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/457970d7-70b3-4244-bdb8-aed8e0f6d3f0" title="Bootstrap" alt="Bootstrap" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://logospng.org/wp-content/uploads/tailwind-css-768x432.png" title="Tailwind" alt="Tailwind" width="60" height="60"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://www.dongee.com/tutoriales/content/images/2023/10/image-7.png" title="Tailwind" alt="Tailwind" width="60" height="60"/></a></code>&nbsp;
 </div>
 
 <div align="center">
