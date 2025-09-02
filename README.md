@@ -51,7 +51,7 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
 
 <div align="center">
     <h3><b>Programming Languages</b></h3>
-     <code><a href="#" target="_blank"><img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" title="Java" alt="java"  height="90"/></a></code>&nbsp;&nbsp;
+     <code><a href="#" target="_blank"><img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" title="Java" alt="java"  height="80"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="python"  height="40"/></a></code>&nbsp;&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="HTML5" alt="C" height="40"/></a></code>&nbsp;
 </div>
