@@ -64,7 +64,7 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
     <code><a href="#" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" title="Open CV" alt="open cv" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" title="Tensorflow" alt="tensorflow" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqoAubNiI_aSMGINDD6rQZMepg417jWh7UMQ&s" title="Scipy" alt="scipy" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://yganalyst.github.io/assets/images/visual_logo.png" title="Matplotlib" alt="matplotlib" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"> <img src="https://yganalyst.github.io/assets/images/visual_logo.png" title="Matplotlib" alt="matplotlib" height="70"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome-thumbnail.png" title="Flask" alt="Flask" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express" alt="Express" height="40"/></a></code>&nbsp;
