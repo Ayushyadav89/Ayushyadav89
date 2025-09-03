@@ -67,7 +67,6 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
     <code><a href="#" target="_blank"> <img src="https://yganalyst.github.io/assets/images/visual_logo.png" title="Matplotlib" alt="matplotlib" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://e7.pngegg.com/pngimages/654/56/png-clipart-flask-web-framework-python-software-framework-jinja-flask-miscellaneous-monochrome-thumbnail.png" title="Flask" alt="Flask" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" title="React" alt="React" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"> <img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/1a1e18f3-61e8-478f-9652-4a38537ca824" title="Django" alt="Django" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" title="Express" alt="Express" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://redux-toolkit.js.org/img/redux-logo-landscape.png" title="Redux Toolkit" alt="Redux" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://wp.gaji.jp/wp-content/uploads/2023/12/daisyui_logo.png" title="Daisy UI" alt="Daisy UI" height="40"/></a></code>&nbsp;
