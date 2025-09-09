@@ -117,8 +117,6 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushyadav89&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
-<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 <h1 align="center">Github Trophy🦾</h1>
 
 
@@ -133,10 +131,6 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
 
 
 <h2 align="center">Leetcode🦾<h2>  
-<p align="center">
-  <a href="https://leetcode.com/AyushYadav56/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/AyushYadav56/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
 <p align="center">
     <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/AyushYadav56?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
