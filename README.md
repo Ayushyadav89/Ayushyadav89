@@ -90,8 +90,8 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c19d8e21-c373-47c7-926a-29a4bbe9898c" title="Git" alt="Jupyter" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" title="Postman" alt="Postman" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" title="Docker" alt="Docker" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" title="Postman" alt="Postman" width="60" height="60"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" title="Docker" alt="Docker" width="60" height="60"/></a></code>&nbsp;
 </div>
 
 <div align="center">
