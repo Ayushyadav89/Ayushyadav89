@@ -1,4 +1,4 @@
-<div>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30abaf30-aeaa-4573-b512-08acfa2f8e39" /><div>
     <div align="left">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&duration=900&pause=1&color=106FF7&random=false&width=435&lines=Ayush+Yadav;Ayushyadav89;" alt="Typing SVG" /></a>
     </div>
@@ -91,14 +91,13 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
     <code><a href="#" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/c19d8e21-c373-47c7-926a-29a4bbe9898c" title="Git" alt="Jupyter" width="40" height="40"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://w7.pngwing.com/pngs/877/217/png-transparent-postman-logo-tech-companies.png" title="Postman" alt="Postman" width="60" height="60"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" title="Docker" alt="Docker" width="70" height="90"/></a></code>&nbsp;
 </div>
 
 <div align="center">
     <h3><b>Deployment</b></h3>
+    <code><a href="#" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" title="Docker" alt="Docker" width="70" height="90"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://concisesoftware.com/wp-content/uploads/2020/01/Kubernetes-logo.png" title="Docker" alt="Kubernets" width="70" height="90"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" title="Render" alt="Render" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://logowik.com/content/uploads/images/vercel1868.jpg" title="Vercel" alt="Vercel" width="40" height="40"/></a></code>&nbsp;
-
 </div>
 
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
