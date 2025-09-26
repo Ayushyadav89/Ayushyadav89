@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30abaf30-aeaa-4573-b512-08acfa2f8e39" /><div>
+
     <div align="left">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&duration=900&pause=1&color=106FF7&random=false&width=435&lines=Ayush+Yadav;Ayushyadav89;" alt="Typing SVG" /></a>
     </div>
