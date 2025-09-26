@@ -1,4 +1,4 @@
-
+<div>
     <div align="left">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&duration=900&pause=1&color=106FF7&random=false&width=435&lines=Ayush+Yadav;Ayushyadav89;" alt="Typing SVG" /></a>
     </div>
@@ -96,8 +96,9 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
 <div align="center">
     <h3><b>Deployment</b></h3>
     <code><a href="#" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png" title="Docker" alt="Docker" width="70" height="90"/></a></code>&nbsp;
-    <code><a href="#" target="_blank"><img src="https://concisesoftware.com/wp-content/uploads/2020/01/Kubernetes-logo.png" title="Docker" alt="Kubernets" width="70" height="90"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://concisesoftware.com/wp-content/uploads/2020/01/Kubernetes-logo.png" title="Docker" alt="Kubernets" width="80" height="100"/></a></code>&nbsp;
     <code><a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/36424661?s=200&v=4" title="Render" alt="Render" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="#" target="_blank"><img src="https://logowik.com/content/uploads/images/vercel1868.jpg" title="Vercel" alt="Vercel" width="40" height="40"/></a></code>&nbsp;
 </div>
 
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
