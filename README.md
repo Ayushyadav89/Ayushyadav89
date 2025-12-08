@@ -28,9 +28,9 @@ As a cloud enthusiast, I focus on creating resilient infrastructures that can sc
 
 - 🎓 B.Tech CSE | Pranveer Singh Institute of Technology (2022–2026)
 - 💻 Currently building: Smart Vote System using Face recognition in Python
-- 🛠️ Focused on: Competitive Programming |  MERN STACK | AI/ML | Full-Stack Projects
+- 🛠️ Focused on: Competitive Programming | Data Engineer | MERN STACK Development | AI/ML Engineer
 - 🤝 Open to: Collaborating on innovative & impactful Open Source projects
-- 🚀 Solved: 600+ Leetcode Problems | 17+ Badges | Global Rank - 96k | Contest Rating - 1576
+- 🚀 Solved: 800+ Leetcode Problems | 24+ Badges | Global Rank - 51k | Contest Rating - 1569
 
 
 
